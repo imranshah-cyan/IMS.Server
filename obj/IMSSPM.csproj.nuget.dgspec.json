@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IMSSPM\\IMSSPM.csproj": {}
+    "C:\\2. CyanTechSolutions\\IMS.Server\\IMSSPM.csproj": {}
   },
   "projects": {
-    "D:\\IMSSPM\\IMSSPM.csproj": {
+    "C:\\2. CyanTechSolutions\\IMS.Server\\IMSSPM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IMSSPM\\IMSSPM.csproj",
+        "projectUniqueName": "C:\\2. CyanTechSolutions\\IMS.Server\\IMSSPM.csproj",
         "projectName": "IMSSPM",
-        "projectPath": "D:\\IMSSPM\\IMSSPM.csproj",
+        "projectPath": "C:\\2. CyanTechSolutions\\IMS.Server\\IMSSPM.csproj",
         "packagesPath": "C:\\Users\\syed-\\.nuget\\packages\\",
-        "outputPath": "D:\\IMSSPM\\obj\\",
+        "outputPath": "C:\\2. CyanTechSolutions\\IMS.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

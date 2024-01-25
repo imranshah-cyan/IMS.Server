@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rJ97fBpjFVYeYduvC/gV/QkalFtoMeh8sYBJkNQsdp3p5RdpeFj4DNAvWErPQGo7Ph6dfJE5TbU6PoZkKunMPw==",
+  "dgSpecHash": "iPV5kahCV8M/vplakPxo+ofgZ9ZOt0YHqaWVAXDkg2XhEKinJ77Kt2FC1EVfyiMZnlB3xm1J6H+YQ3cLoL/q/w==",
   "success": true,
-  "projectFilePath": "D:\\IMSSPM\\IMSSPM.csproj",
+  "projectFilePath": "C:\\2. CyanTechSolutions\\IMS.Server\\IMSSPM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\syed-\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\syed-\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
